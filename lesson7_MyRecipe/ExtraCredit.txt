@@ -1,0 +1,4 @@
+I changed the speed of the drop down menus from slow to fast
+I changed the colors of the hover on the h3 tags
+I changed the DOM transversal from next() to siblings()
+I changed the CSS tag to clone()
